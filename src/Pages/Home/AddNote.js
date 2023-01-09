@@ -34,6 +34,9 @@ const AddNote = () => {
             use Wikipedia for free!
           </p>
         </div>
+        <div className="modal-action">
+      <label htmlFor="my-modal-6" className="btn">Yay!</label>
+    </div>
       </div>
     </div>
   );
